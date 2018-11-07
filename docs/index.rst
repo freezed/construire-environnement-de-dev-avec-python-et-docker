@@ -190,7 +190,7 @@ Installation sous Debian 9
   
 - Ajouter le repo officiel de Docker aux sources de apt::
 
-  $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian $(lsb_release -cs) stable"
+  $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian stretch stable"
   
 - Mettre à jour la base de données des paquets de apt::
 

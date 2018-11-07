@@ -227,7 +227,7 @@ Notez que docker-ce n'est pas installé, mais que le candidat à l'installation 
 
   $ id -nG
 
-Voilà, vous avez installé Docker avec succès. Afin de tester si votre installation fonctionne, tapez les lignes suivantes dans un termina::
+Voilà, vous avez installé Docker avec succès. Afin de tester si votre installation fonctionne, tapez les lignes suivantes dans un terminal :
 
   $ docker --version
   Docker version 18.03, build c97c6d6
